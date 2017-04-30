@@ -19,7 +19,7 @@ One way to simulate lightning is with a random walk. In this assignment you will
 7. `void mousePressed()` needs to set `startX`,`startY`,`endX`,`endY` back to their original values.  
 1. This is one of the most important steps! If we all stopped here, everybody's lightning would look the same. That's no fun. In this step you'll make your lightning unique. Take your time on this step, be creative, and make yours look different from anyone else's! Below are some examples of other students' work. Browse those for ideas.
 1. When you've got a good draft, ask a colleague for feedback. Incorporate that feedback and give that person credit with a comment in your code.
-1. Submit your assignment. ([How? Click here.](https://woodstockcs.github.io/HowToSubmit))
+1. Submit your assignment. ([How? Click here.](https://woodstockcs.github.io/ClassLogistics))
 
 Samples of Other Student Work
 -----------------------
